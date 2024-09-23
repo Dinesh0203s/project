@@ -1,0 +1,20 @@
+{
+    "name": "photo-filter-app",
+    "version": "1.0.0",
+    "description": "A React app to filter group photos by uploaded image or selfie",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "face-api.js": "^0.22.2",
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-scripts": "5.0.1",
+      "web-vitals": "^2.1.4"
+    }
+  }
+  
